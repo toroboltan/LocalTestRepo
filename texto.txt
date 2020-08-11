@@ -1,3 +1,5 @@
+# Defaut is World
+# Author: Jim Weirich (jim@somewhere.com)
 This is a test for git
 
 This is a second line
